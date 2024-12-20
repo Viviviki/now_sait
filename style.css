@@ -1,0 +1,382 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.head1{
+    width: 100%;
+    height: 56px;
+    background-color: #355311;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.logozv{
+    color:white;
+    font-family: Inter;
+    font-weight: 300;
+    font-size: 14pxpx;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 50px;
+}
+.telol{
+    color:white;
+    font-family: Inter;
+    font-weight: 300;
+    font-size: 14pxpx;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 50px;
+
+}
+.emaillogo{
+    color:white;
+    font-family: Inter;
+    font-weight: 300;
+    font-size: 14pxpx;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 50px;
+}
+.prjamo{
+    display: flex;
+    flex-direction: row;
+}
+.head2{
+    width: 100%;
+    height: 56px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.schol{
+    font-family: Inter;
+    font-weight: 300;
+    font-size: 16pxpx;
+    line-height: 19px;
+    letter-spacing: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 80px;
+}
+.osninf{
+    font-family: Inter;
+    font-weight: 300;
+    font-size: 16pxpx;
+    line-height: 19px;
+    letter-spacing: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+.sved{
+    font-family: Inter;
+    font-weight: 300;
+    font-size: 16pxpx;
+    line-height: 19px;
+    letter-spacing: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+.kont{
+    font-family: Inter;
+    font-weight: 300;
+    font-size: 16pxpx;
+    line-height: 19px;
+    letter-spacing: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 80px;
+}
+.vmeste{
+    margin-right: 100px;
+}
+.cvett{
+    width: 1431px;
+    height: 561px;
+    background-color: #DEE7DD;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 45px 58px 45px 30px;
+}
+.nazv{
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 16pxpx;
+    line-height: 29px;
+    letter-spacing: 0px;
+    align-items: top;
+    display: flex;
+    flex-direction: row;
+    white-space: nowrap;
+    margin: 20px;
+}
+.direct{
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 18pxpx;
+    line-height: 22px;
+    letter-spacing: 0px;
+    margin-left: 100px;
+
+}
+.ljapina{
+    font-family: Inter;
+    font-weight: 300;
+    font-size: 17pxpx;
+    line-height: 21px;
+    letter-spacing: 0px;
+    margin-left: 25px;
+    margin-top: 10px;
+
+}
+.dobro{
+    font-family: Inter;
+    font-weight: 300;
+    font-size: 19pxpx;
+    line-height: 23px;
+    letter-spacing: 0px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.poloz{
+    font-family: Inter;
+    font-weight: 300;
+    font-size: 19pxpx;
+    line-height: 23px;
+    letter-spacing: 0px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+
+
+}
+.pocth{
+    font-family: Inter;
+    font-weight: 300;
+    font-size: 19pxpx;
+    line-height: 23px;
+    letter-spacing: 0px;
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+}
+.pol{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.pram{
+    display: flex;
+    flex-direction: column;
+
+}
+.pramm{
+    display: flex;
+    flex-direction: column;
+}
+.poll{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.zad_fon{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.polez_ssl{
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 24pxpx;
+    line-height: 29px;
+    letter-spacing: 0px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    align-items: top;
+    margin: 20px;
+}
+.rectangle {
+    width: 398px;
+    height: 385px;
+    background-color: #ffffff;
+    border: 1px solid #2E6628;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+.knopka{
+    width: 185px;
+    height: 56px;
+    background-color: #A5B2A4;
+    border-radius: 30px;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 15pxpx;
+    line-height: 18px;
+    letter-spacing: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 12px;
+    gap: 7px;
+    margin: 10px;
+}
+.krug{
+    width: 43px;
+    height: 43px;
+    background-color: #F4EFEF56;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sslki{
+    display: grid;
+    grid-template-columns: repeat(2,398px);
+    grid-template-rows: repeat(2,385px);
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin: 10px;
+    gap: 50px 107px;
+}
+.posled_cvet{
+    height: 471px;
+    width: 100%;
+    background-color: #DEE7DD;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.novosti{
+    display: flex;
+    gap: 102px;
+    align-items: center;
+    justify-content: center;
+}
+.kvadrat{
+    width: 452px;
+    height: 385px;
+    background-image: url("img/novosti1.svg");
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    position: relative;
+    
+}
+.kvadrat1{
+    width: 452px;
+    height: 385px;
+    background-image: url("img/ludi.svg");
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    position: relative;
+}
+.krug2{
+    width: 49px;
+    height: 49px;
+    background-color: #A5B2A4;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.text{
+    width: 392px;
+    height: 100px;
+    background-color: #C4C4C4A7;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: 0px;
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    position: absolute;
+    bottom: 0;
+    
+}
+.pustoi{
+    width: 100%;
+    height: 100px;
+}
+.posled{
+    width: 100%;
+    height: 200px;
+    background-color: #355311;
+    padding-bottom: 48px;
+}
+.slova{
+    font-family: Inter;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0px;
+    color: #ffffff;
+    width: 306px;
+
+}
+.slova1{
+    font-family: Inter;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0px;
+    color: #ffffff;
+    width: 306px;
+   
+}
+.slova2{
+    font-family: Inter;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0px;
+    color: #ffffff;
+    width: 200px;
+  
+}
+.gruppa{
+    display: flex;
+    align-items: flex-end;
+    height: 100%;
+    justify-content: center;
+    gap: 250px;
+}
+@font-face {
+    font-family: Inter;
+    src: url("fonts/Inter-Regular.otf");
+}
